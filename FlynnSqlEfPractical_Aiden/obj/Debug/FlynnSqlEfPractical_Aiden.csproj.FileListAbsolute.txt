@@ -1,0 +1,10 @@
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\FlynnSqlEfPractical_Aiden.exe.config
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\obj\Debug\FlynnSqlEfPractical_Aiden.csprojResolveAssemblyReference.cache
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\FlynnSqlEfPractical_Aiden.exe
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\FlynnSqlEfPractical_Aiden.pdb
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\EntityFramework.dll
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\EntityFramework.xml
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\obj\Debug\FlynnSqlEfPractical_Aiden.exe
+C:\ZJY\FlynnSqlEfPractical_Aiden\FlynnSqlEfPractical_Aiden\obj\Debug\FlynnSqlEfPractical_Aiden.pdb
