@@ -23,20 +23,7 @@ namespace FlynnSqlEfPractical_Aiden
                                     into temp
                                     from name in temp.DefaultIfEmpty()
                                     select new { code.Id, code.Code, Name = name.Name };
-                /*
-                var LeftJoinQuery = (from code in context.Table_1
-                                     from mappings in context.Table_2
-                                     .Where(mapping => mapping.Id == code.Id).DefaultIfEmpty()
-                                     from name in context.Table_2
-                                     .Where(gruppe=>gruppe.Id == mappings.Id).DefaultIfEmpty()
-                                     select new
-                                     {
-                                         code.Id,
-                                         code.Code,
-                                         Name = name.Name
-                                     }
-                                     );
-                                     */
+               
                 //Right join
                 var RightJoinQuery = from name in context.Table_2
                                      join code in context.Table_1 on name.Id equals code.Id
